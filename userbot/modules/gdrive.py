@@ -50,8 +50,8 @@ SCOPES = [
     "https://www.googleapis.com/auth/drive",
     "https://www.googleapis.com/auth/drive.metadata",
 ]
-#REDIRECT_URI = "http://localhost:1/"
-REDIRECT_URI = "urn:ietf:wg:oauth:2.0:oob:auto"
+REDIRECT_URI = "http://localhost:1/"
+#REDIRECT_URI = "urn:ietf:wg:oauth:2.0:oob"
 # =========================================================== #
 #      STATIC CASE FOR G_DRIVE_FOLDER_ID IF VALUE IS URL      #
 # =========================================================== #
