@@ -1,6 +1,9 @@
-# Copyright (C) 2019 The Raphielscape Company LLC.; Licensed under the Raphielscape Public License, Version 1.d (the "License"); you may not use this file except in compliance with the License.; Thanks @rupansh
-
-""" Userbot module for kanging stickers or making new ones. """
+# Copyright (C) 2019 The Raphielscape Company LLC.
+#
+# Licensed under the Raphielscape Public License, Version 1.c (the "License");
+# you may not use this file except in compliance with the License.
+#
+""" Userbot module for kanging stickers or making new ones. Thanks @rupansh"""
 
 import io
 import math

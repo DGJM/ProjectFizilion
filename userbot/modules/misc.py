@@ -1,5 +1,12 @@
-# Copyright (C) 2019 The Raphielscape Company LLC.; Licensed under the Raphielscape Public License, Version 1.d (the "License"); you may not use this file except in compliance with the License.; Modified by @PrajjuS
-
+# Copyright (C) 2019 The Raphielscape Company LLC.
+#
+# Licensed under the Raphielscape Public License, Version 1.d (the "License");
+# you may not use this file except in compliance with the License.
+#
+# You can find misc modules, which dont fit in anything xD
+#
+#
+#Modified by @PrajjuS
 """ Userbot module for other small commands. """
 
 import io
@@ -100,7 +107,7 @@ async def repeat(rep):
 async def repo_is_here(wannasee):
     """ For .repo command, just returns the repo URL. """
     await wannasee.edit(
-        "[Click here](https://github.com/SkyLab-Devs/ProjectFizilion) to open Fizilion's GitHub Repo."
+        "[Click here](https://github.com/FrosT2k5/ProjectFizilion) to open Fizilion's GitHub Repo."
     )
 
 @register(outgoing=True, pattern="^.deploy$")

@@ -1,6 +1,8 @@
-# Copyright (C) 2019 The Raphielscape Company LLC.; Licensed under the Raphielscape Public License, Version 1.d (the "License"); you may not use this file except in compliance with the License.; Copyright (C) 2021 arshsisodiya; Created by arshsisodiya for ProjectHelios.
+# Copyright (C) 2021 arshsisodiya
+# https://github.com/arshsisodiya
+# https://twitter.com/arshsisodiya
 
-""" a module for shortning link. """
+# Created by arshsisodiya for ProjectHelios
 
 import asyncio
 from asyncio import sleep
